@@ -1,2 +1,2 @@
 # trees_c
-Learning trees in c
+## Learning trees in c
